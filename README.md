@@ -46,7 +46,7 @@ people you are leaving and take the proper steps to ensure that others can pick
 up where you leave off. This is mainly important for those providing volunteer
 services that others have come to depend on.
 
-Mailing lists and IRC
+**Mailing lists and IRC**
 
 Mailing lists and IRC are important parts of the NCSU LUG community platform.
 This code of conduct applies very much to your behavior in those forums too.
@@ -55,7 +55,7 @@ Please follow these guidelines.
 1. Please use a valid email address to which direct responses can be made.
 2. Please avoid flamewars, trolling, personal attacks, and repetitive arguments.
 
-License
+**License**
 
 The NCSU LUG Code of Conduct is licensed under the Creative Commons
 Attribution-Share Alike 3.0 license and is based on the TriLUG Code of Conduct
