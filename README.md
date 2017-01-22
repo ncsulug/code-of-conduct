@@ -39,7 +39,7 @@ expected to be perfect in the NCSU LUG community. Asking questions avoids many
 problems down the road, and so questions are encouraged. Those who are asked
 should be responsive and helpful.
 
-Step down considerately. People come and go from any collaborative group. When
+**Step down considerately.** People come and go from any collaborative group. When
 you leave or disengage from NCSU LUG, in whole or in part, we ask that you do
 so in a way that minimizes disruption to the LUG. This means you should tell
 people you are leaving and take the proper steps to ensure that others can pick
